@@ -35,4 +35,10 @@
     Application, Presentationc Session, Transport, Network, Data Link, Physical
     
 10.)
-    A physical connection 
+    If we compare the TCP/IP protocol with the OSI protocol, we see that there are more layers in OSI to keep more organized
+    
+11.)
+    Common application is e-mail
+    
+12.)
+    A logical connection is one that relates two points within software or code, never connect.  As opposed to a physical connection which is when matter is directly in contact with the two points
