@@ -1,0 +1,37 @@
+1.)
+    a.)Interconnected group of computers and computing equipment, with wires or radio waves;Can share data and resources.
+    b.)The transfer of digital or analog data, over digital or analog signals.
+    c.)The study of telephones and telephone systems
+    d.)Small geographaic network, usually encompasses single room, floor, or building
+    e.)Network of a few meters, usually between personal wireless devices
+    f.)Network that reaches the area from 1 to 30 miles, aproximately the size of a city
+    g.)Network that covers parts of states, whole states, countries, and world
+    h.)Act of designing, installing, and supporting a network; both hardware and software
+    i.)To have various elements come together to a single point or location
+    j.)Network that spans buildings in a school campus
+
+2.)
+    A node is a single computing device that connects to the network, an access point to the network. In contrast to a subnetwork which is the collection of those nodes, along with the lines of transmission between these nodes.
+    
+3.)
+    Applications that need to retrieve data from other locations, for example a web browser retrieving a web page from a foreign server.
+    
+4.)
+    Most likely a company working in manufacturing that need it to control machinery and necessary to keep statistics organized.
+    
+5.)
+    The computer uses binary to interface with the internet
+    
+6.)
+    An application that controls robots on an assembly line in a manufacturing company.
+    
+7.)
+    It helps to map or identify how a network is built, as well as where a modification may be inserted.
+    
+8.)
+    Application, Transport, Network, Network Access, Physical
+    
+9.)
+    Application, Presentationc Session, Transport, Network, Data Link, Physical
+    
+10.)
