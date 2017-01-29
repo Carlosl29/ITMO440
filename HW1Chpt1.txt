@@ -42,3 +42,7 @@
     
 12.)
     A logical connection is one that relates two points within software or code, never connect.  As opposed to a physical connection which is when matter is directly in contact with the two points
+
+13.)
+    In the communications industry many technologies that may not be directly related are beginning to combine to for single systems that support various uses.
+    
