@@ -46,3 +46,20 @@
 13.)
     In the communications industry many technologies that may not be directly related are beginning to combine to for single systems that support various uses.
     
+    
+    
+9.)
+    At first glance the TCP/IP protocal suite is missing the presentation and session layer that can be found in the OSI protocol suite.
+
+10.)
+    While the two layers may indeed provide error checking, they each check for different errors.  The data link layer provides error checks if the data transmission has errors.  On the other hand the transport layer checks the data if it is the exact same data that was sent.
+    
+11.)
+    a.)Network Layer
+    b.)Transport Layer
+    c.)Network Access Layer
+    d.)Application Layer
+    e.)Application Layer
+    f.)Transport Layer
+    g.)Transport Layer
+    
